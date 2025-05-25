@@ -3,8 +3,8 @@ package com.github.jdha.blogapi
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
-@SpringBootApplication class BlogapiApplication
+@SpringBootApplication class BlogApiApplication
 
 fun main(args: Array<String>) {
-    runApplication<BlogapiApplication>(*args)
+    runApplication<BlogApiApplication>(*args)
 }
